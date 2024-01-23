@@ -4,7 +4,7 @@
 - 🌱 Currently on a journey of learning **React Hooks**.
 - 💞️ I’m open to collaboration on **innovative projects**.
 - 📫 You can reach me at **joydebj@maqsoftware.com**.
-- 😄 Pronouns: **he/him**.
+- 😄 Pronouns: **he/him**. 
 - ⚡ Fun fact: **I once climbed a mountain in flip-flops**.
 
 <!---
